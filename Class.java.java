@@ -11,3 +11,16 @@
 
 }
 
+
+class test {
+	public static void main(String[] args) {
+	
+	Vechicle v =new Vechle();
+           
+              void start();
+	}
+	
+
+}
+
+
