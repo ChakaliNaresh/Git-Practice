@@ -9,9 +9,10 @@ public class Hello {
 	    int result=d1+d2+d1*d2;
 	    if(result==n)
 	    {
-	    	System.out.println("it is the Special two digit number");
+	    	System.out.println("it is the Special two digit number created by Nani");
 	    }
 	    else 
 	    {
-	    	System.out.println("it is not a special two digit number");	 
-   }
+	    	System.out.println("it is not a special twow digit number created By Nani");
+	 
+           }
