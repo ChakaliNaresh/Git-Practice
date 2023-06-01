@@ -1,10 +1,13 @@
-Public Class Nani
+  interface Vechicle
+{
+    void start()
+}
+    
+     public class Car implements Vechicle{
+	public void start()
+	{
+		System.out.println("car has been started");
+	}
 
-{
-Public Static Void main (String[]args)
-{
-system out.println("Nani");
-system.out.println("Mani";
-system.out.println("B.tech")
 }
-}
+
